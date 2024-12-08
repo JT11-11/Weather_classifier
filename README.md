@@ -6,6 +6,13 @@ This repository provides an end-to-end pipeline for image classification using P
 - Splitting datasets into training, validation, and test sets.
 - Defining custom PyTorch `Dataset` classes.
 - Training a convolutional neural network (CNN) model.
+
+### Data Set
+The data set of the 11 different weather conditions is taken from Kaggle. 
+
+### Motivations
+Personally, I think that climate change is one of the most pressing social issue which is impacting so many people around the world thus, I hope to make use of AI to reduce the impact of climate change in people's lives. Hence this will be one of the many projects that I'll do to not only to solidify my knowledge in AI but also to play a part in societal issues like climate change. 
+
 ## Features
 
 - **Data Handling:**  
